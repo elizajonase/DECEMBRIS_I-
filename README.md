@@ -1,0 +1,3 @@
+Pārbaudes darba tēmu apguvu salīdzinoši labi, sapratu katrā uzdevumā uzdevuma nosacījumus, mācēju izveidot gandrīz visus uzdevumus un nonācu līdz secinājumam, ka tomēr visus uzdevumus nevarēju apgūt tik labi, cik gribēju. Man grūtības sagādāja uzdevumus ''pushot'' uz GITHUB, jo man pēc katra uzdevuma izpildes, mēģinot ''pushot'' izmeta ārā ar sarkaniem burtiem error: failed to push some refs to 'https://github.com/elizajonase/DECEMBRIS_I-.git', bet sapratu, ka daru vienu soli nepareizi.
+Vēl man sagādāja grūtības tas, ka kladē biju ievietojusi maz informāciju, tāpēc bija grūti bieži saprast, kas man tālāk jādara.
+Pēc šī pārbaudes darba, es saprotu, kas man vēl ir jāmācās un ko uz priekšu darīt labāk.
