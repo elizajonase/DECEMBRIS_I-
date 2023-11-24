@@ -1,8 +1,4 @@
-ievaditais_skaitlis = int(input("Ievadiet skaitli: "))
-
-summa = 0
-
-for i in range(1, ievaditais_skaitlis + 1):
-    summa += i
-
-print(f"Summa no 1 līdz {ievaditais_skaitlis} ir: {summa}")
+skaitlis=int(input(print("Ievadi skaitli: ")))
+for i in range (1,skaitlis+1):
+    print(i)
+print ("Saskaitījām līdz tavam ievadītam skaitlim no 1!")
